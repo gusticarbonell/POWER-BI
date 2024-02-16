@@ -18,6 +18,16 @@ Las visualizaciones proporcionan información clave sobre las tendencias y fluct
 Este proyecto se centra en la creación de una matriz de informes financieros que simplifica el proceso de seguimiento y análisis de datos financieros. 
 Ofrece visualizaciones personalizadas que facilitan la toma de decisiones basadas en datos financieros.
 
+## Covid-19 Only USA
+
+En este proyecto vemos como en la etapa de la pandemia del COVID se vio afectado Estados Unidos detallando informacion por estados y que acontecimientos ocurrieron en cada estado.
+
+## Human Resources Sample
+
+En este proyecto se procede a visualizar métricas esenciales de Recursos Humanos. Rotación para decisiones informadas ya sean contrataciones o retiros de la empresa medidos por region, genero, rango etario, entre otros.
+
+
+
 Siéntete libre de descargar, explorar y utilizar estos proyectos de Power BI para tus propios análisis o como referencia para tus propios trabajos. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ¡Espero que encuentres estos proyectos útiles!
