@@ -26,7 +26,13 @@ En este proyecto vemos como en la etapa de la pandemia del COVID se vio afectado
 
 En este proyecto se procede a visualizar métricas esenciales de Recursos Humanos. Rotación para decisiones informadas ya sean contrataciones o retiros de la empresa medidos por region, genero, rango etario, entre otros.
 
+## Bank Loan
 
+This dataset is about a bank (Thera Bank) whose management wants to explore ways to convert its liability customers into personal loan customers (retaining them as depositors). 
+
+A campaign the bank ran in 2023 for liability customers showed a good conversion rate of over 9% success. 
+
+This has encouraged the retail marketing department to devise campaigns with better marketing objectives to increase the success rate with a minimal budget.
 
 Siéntete libre de descargar, explorar y utilizar estos proyectos de Power BI para tus propios análisis o como referencia para tus propios trabajos. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
